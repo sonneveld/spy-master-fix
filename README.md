@@ -23,6 +23,8 @@ Run SPYFIX.COM /R to remove the TSR.
 
 Once TSR is loaded, run the game as you normally would (SPY.EXE)
 
+![SPYFIX usage example](https://github.com/user-attachments/assets/bed8ee33-caa7-46d6-a763-716109fee4fa)
+
 
 ## The game
 
