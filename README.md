@@ -10,7 +10,7 @@ published 1994.
 If the copy protection detects an unauthorised installation, it removes bombs,
 disables level exits, disables save games and clamps your score to 100.
 
-You can hopefully find latest version at:
+You can find the latest version of the fix here:
 
 https://github.com/sonneveld/spy-master-fix
 
@@ -28,17 +28,19 @@ Once TSR is loaded, run the game as you normally would (SPY.EXE)
 
 ## The game
 
-Spy Master by L.K. Avalon, published 1994.
-
-https://www.mobygames.com/game/59567/spy-master/
+[Spy Master by L.K. Avalon, published 1994.](https://www.mobygames.com/game/59567/spy-master/)
 
 The player controls a CIA special agent, Charles Cat, who has to fight his
 way to the heart of a fortress in the Andes through ranks of soldiers,
 automatic tanks and traps.
 
-PC AT, 1 MB RAM, VGA. 
+Requirements: PC AT, 1 MB RAM, VGA.
 
 Sound: PC Speaker, Covox, Sound Blaster, Gravis UltraSound, General MIDI.
+
+* Graphics: [Danuta Sienkowska](https://www.mobygames.com/person/81187/danuta-sienkowska/)
+* Music: [Daniel Kleczy?ski](https://www.mobygames.com/person/9348/daniel-kleczynski/)
+* Programming: [Jaros?aw A. Syrylak](https://www.mobygames.com/person/555851/jaros%C5%82aw-a-syrylak/)
 
 
 ## Controls
